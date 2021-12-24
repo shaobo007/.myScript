@@ -1,0 +1,2 @@
+# .myScript
+some sh scripts
